@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhanuprakashpujala
 -  interested in DATA SCIENCE 
 -  currently learning DATA SCIENCE 
--  looking to collaborate on PYTHON 
+-  looking to collaborate on PYTHON,EDA,SQL,TABLEU,STATISTICS 
 -  to reach me pujalabhanuprakash@gmail.com
 
 <!---
