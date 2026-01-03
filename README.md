@@ -1,20 +1,37 @@
-👋 Hi, I’m Bhanuprakash Pujala
+<div align="center">
 
-🎓 B.Sc. Statistics Graduate
-📊 Data Scientist | 2+ Years of Experience
+<h1>Bhanuprakash Pujala</h1>
 
-I began my professional journey as a Data Science Intern, advanced to Junior Data Scientist, and currently work as a Data Scientist—earning three promotions within two years through consistent performance, dedication, and continuous learning.
+<p>
+<b>Data Scientist</b> <br/>
+B.Sc. Statistics Graduate | 2+ Years of Experience
+</p>
 
-I’m deeply curious about emerging technologies while maintaining a strong foundation in core data science and statistical concepts. I actively keep my skills and profile up to date and enjoy building data-driven solutions that solve real-world problems.
+</div>
 
-🔍 What defines me:
+<hr/>
 
-Strong analytical and statistical background
+<h3>About Me</h3>
 
-Continuous learner with a growth mindset
+<p>
+I am a <b>B.Sc. Statistics graduate</b> with <b>2 years of professional experience</b> as a Data Scientist.
+I started my career as a <b>Data Science Intern</b>, progressed to <b>Junior Data Scientist</b>, and currently work as a <b>Data Scientist</b>,
+achieving <b>three promotions within two years</b> through consistent performance and continuous learning.
+</p>
 
-Passionate about practical, real-world data applications
+<p>
+I am highly curious about learning new technologies while maintaining a strong foundation in
+<b>core data science and statistical concepts</b>. I actively keep my skills and profile up to date
+and enjoy applying <b>data-driven solutions</b> to solve real-world problems.
+</p>
 
-Committed to consistency and skill improvement
+<hr/>
 
-📌 Always exploring. Always improving. Always data-driven.
+<h3>Key Highlights</h3>
+
+<ul>
+  <li>Strong foundation in Statistics and Data Science</li>
+  <li>Rapid career growth with 3 promotions in 2 years</li>
+  <li>Consistent learner and technology enthusiast</li>
+  <li>Focused on real-world, data-driven problem solving</li>
+</ul>
